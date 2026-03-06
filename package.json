@@ -1,0 +1,27 @@
+{
+  "name": "-y",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Mb-03/mod-3-prisma-correct#readme",
+  "bugs": {
+    "url": "https://github.com/Mb-03/mod-3-prisma-correct/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mb-03/mod-3-prisma-correct.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@prisma/adapter-pg": "^7.4.2",
+    "@prisma/client": "^7.4.2",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "pg": "^8.20.0"
+  }
+}
